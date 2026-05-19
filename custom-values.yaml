@@ -2,5 +2,3 @@ dags:
   gitSync:
     enabled: true
     repo: https://github.com/mukeshjha198990-ship-it/airflow-labs-data-collection-quickstart.git
-    branch: main
-    subPath: dags
